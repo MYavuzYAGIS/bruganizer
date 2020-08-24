@@ -1,0 +1,5 @@
+
+    [console_scripts]
+    bruganizer=bruganizer:main
+    
+    

@@ -1,0 +1,8 @@
+bruganizer.py
+setup.py
+bruteorganizer.egg-info/PKG-INFO
+bruteorganizer.egg-info/SOURCES.txt
+bruteorganizer.egg-info/dependency_links.txt
+bruteorganizer.egg-info/entry_points.txt
+bruteorganizer.egg-info/requires.txt
+bruteorganizer.egg-info/top_level.txt
