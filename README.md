@@ -7,7 +7,32 @@
               | |_) | |  | |_| | ||  __/ | |_| | | | (_| | (_| | | | | |/ /  __/ |
               |____/|_|   \__,_|\__\___|  \___/|_|  \__, |\__,_|_| |_|_/___\___|_|
                                       |___/
-                                      
+        
+**
+
+
+
+
+
+
+
+**
+
+            
+                                                                        
+ ![Image](https://github.com/Jubavicta/bruganizer/blob/master/savedpic.png)                                     
+
+**
+    
+    
+    
+    
+    
+    
+    
+**
+
+
 **What is Bruganizer?**
 
 Bruganizer(Brute Organizer) is a tool written in python and is OS agnostic. It is powered with the click module for better integration with the terminal and offers better user experience. Moreover, it is not maintained in a form of script, but rather package so the user can call it regardless of their PWD.
@@ -61,6 +86,18 @@ By default, it will sort the files within the CWD. However, a new path can also 
 **Usage Example**
 
 bruganier move /Users/user_home/Downloads -e pdf
+
+
+
+**IMPORTANT NOTE: DIRECTORIES WHICH CONTAIN SUBDIRS RAISE ERRORS**
+
+
+
+
+
+
+
+
 
 
 
