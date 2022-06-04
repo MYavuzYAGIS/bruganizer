@@ -1,4 +1,4 @@
-
+[![CodeFactor](https://www.codefactor.io/repository/github/myavuzyagis/bruganizer/badge)](https://www.codefactor.io/repository/github/myavuzyagis/bruganizer)
 
 
               ____             _          ___                        _
